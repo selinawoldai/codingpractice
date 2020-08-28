@@ -1,0 +1,60 @@
+
+body {
+  background-color: black;
+}
+h1 {
+  color: whitesmoke;
+  font-family: verdana;
+  font-size: 300%;
+   border: 2px solid sandybrown;
+   margin: 50px;
+    text-align: center;
+    
+}
+
+h2 {
+  color: sandybrown;
+  font-family: verdana;
+  font-size: 160%;
+  text-align: center;
+}
+h3 {
+  color: darkgreen;
+  font-family: verdana;
+  padding-top: 50px; 
+  padding-left: 100px;
+  text-transform:uppercase
+}
+
+li {
+  color: darkgreen;
+  font-family: verdana;
+  padding-left: 50px;
+  list-style-type: none
+  
+}
+
+.main-image {
+    border: solid 4px sandybrown;
+    position: relative;
+    left: 450px;
+    bottom: 300px;
+    
+}
+h4{
+  color: darkgreen;
+  font-family: verdana;
+  padding-bottom: 10px; 
+  padding-right: 1040px;
+  text-align: center;
+ 
+  
+}
+ul{
+    text-align: left;
+    font-family: verdana;
+    
+    
+    
+}
+
