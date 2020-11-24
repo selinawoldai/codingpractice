@@ -1,0 +1,25 @@
+body {
+  background-color: peachpuff;
+}
+
+/* Home Page*/
+.header-footer {
+  background-color: sandybrown;
+  padding: 10px;
+  text-align: center;
+  color: brown;
+}
+.tips-section {
+  color: brown;
+  font-family: verdana;
+  font-size: 100%;
+  margin: 20px;
+  text-align: center;
+  text-shadow: sandybrown .5px .5px 10px; 
+}
+.border {
+   border: 2px solid sandybrown;
+}
+
+/* About */
+missionparagraph
